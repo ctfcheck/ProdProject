@@ -2,4 +2,4 @@
 
 This is my first PROD project.
 
-for additional information check the License file.
+For additional information check the License file.
